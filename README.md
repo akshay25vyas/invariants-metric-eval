@@ -14,7 +14,7 @@ This repository will contain:
 
 We are in the process of cleaning and organizing the code and will push updates over time.
 
-If you have questions, feel free to open an issue or contact: your.email@domain.edu.
+If you have questions, feel free to open an issue or contact: akshay.vyas@utdallas.edu
 
 
 
