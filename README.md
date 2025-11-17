@@ -1,6 +1,5 @@
 # invariants-metric-eval
-A Novel Approach to Evaluating Evaluation Metrics for Multi-Output Structured Prediction  
-# Invariants as Probes: Evaluating Metrics for Multi-Output Structured Prediction
+# A Novel Approach to Evaluating Evaluation Metrics for Multi-Output Structured Prediction
 
 Code repository for the AAAI-26 paper:
 
